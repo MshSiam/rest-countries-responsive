@@ -4,4 +4,22 @@
   border: 2px solid rgb(177, 135, 30);
   border-radius: 20px;
   margin-top: 25px;
+  min-width: 250px;
+  max-width: 550px;
 }
+
+/* @media only screen and (min-width: 720px) {
+  .country {
+    width: 550px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .country {
+    width: 450px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .country {
+    width: 600px;
+  }
+} */
