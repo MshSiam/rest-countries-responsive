@@ -12,6 +12,7 @@ export default function Countries() {
   return (
     <div>
       <h1>Rest Countries</h1>
+      <p>By : Muhammad Siam</p>
       <h2>Total Coutries : {countries.length} </h2>
       <hr />
       <div className="countries">
