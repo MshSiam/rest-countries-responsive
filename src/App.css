@@ -1,6 +1,8 @@
 .App {
   text-align: center;
   background-color: rgba(129, 190, 201, 0.877);
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 * {
@@ -9,7 +11,6 @@
 
 body {
   max-width: 100%;
-  overflow-x: hidden;
   max-width: 100%;
 }
 
